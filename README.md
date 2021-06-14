@@ -2,4 +2,4 @@
 
 Apart from traditional text links, it also embeds social media icons and stylish dropdowns.
 
-Technologies used: HTML, CSS, React JS
+#### Technologies used: HTML, CSS, React JS
